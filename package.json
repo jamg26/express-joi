@@ -1,10 +1,10 @@
 {
-  "name": "express-joi",
+  "name": "@jamg/express-joi",
   "version": "0.3.1",
   "description": "An A validation middleware for express using the Joi validation suite from Eran Hammer/Walmart Labs",
   "contributors": {
-    "name": "Peter Henning",
-    "email": "petreboy14@gmail.com"
+    "name": "Jamuel Galicia",
+    "email": "jammmg26@gmail.com"
   },
   "dependencies": {
     "joi": "2.9.0"
